@@ -47,5 +47,10 @@ namespace Ejercicios.Controllers
         {
             return View();
         }
+
+        public ActionResult Ejercicio2CSS()
+        {
+            return View();
+        }
     }
 }
