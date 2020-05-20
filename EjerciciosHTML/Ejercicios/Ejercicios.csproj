@@ -88,6 +88,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\cssEj3.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -111,6 +112,7 @@
     <Content Include="Views\Home\Ejercicio6.cshtml" />
     <Content Include="Views\Home\Ejercicio1CSS.cshtml" />
     <Content Include="Views\Home\Ejercicio2CSS.cshtml" />
+    <Content Include="Views\Home\Ejercicio3CSS.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -120,7 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
